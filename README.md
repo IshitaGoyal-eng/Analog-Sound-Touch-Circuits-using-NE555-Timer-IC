@@ -7,13 +7,13 @@ This repository includes:
 
 🔔 Touch-Sensitive Buzzer with Latching Mechanism
 
-##📌 Project 1: Mini Analog Piano using NE555
+📌 Project 1: Mini Analog Piano using NE555
 
-##🔍 Overview
+🔍 Overview
 
 A functional 7-key analog piano circuit built using the NE555 timer IC in astable mode. Each key produces a distinct musical tone by varying oscillation frequency through different resistor values.
 
-##🧩 Components Used
+🧩 Components Used
 Component |	Value/Type
 Timer IC|NE555
 Resistors|1kΩ (×10), 4.7kΩ
@@ -22,7 +22,7 @@ Push Buttons|7× Momentary Switch
 Speaker/Buzzer|12V
 PCB|Zero PCB
 
-##⚙ Working Principle
+⚙ Working Principle
 
 NE555 configured in astable mode generates continuous square waves.
 
