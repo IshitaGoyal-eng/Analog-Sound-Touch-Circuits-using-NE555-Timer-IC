@@ -41,7 +41,6 @@ a latching mechanism that keeps the alarm ON until manually reset.
 - Latching mechanism keeps alarm ON after touch removal  
 - Manual reset functionality tested and verified  
 
----
 
 ## 🛠 Technologies & Tools
 - NE555 Timer IC (Astable & Monostable Modes)  
@@ -50,7 +49,6 @@ a latching mechanism that keeps the alarm ON until manually reset.
 - Zero PCB Fabrication  
 - Hardware Testing & Debugging  
 
----
 
 # PROJECT 2: Mini Analog Piano 🎹 using NE555 Timer IC
 
