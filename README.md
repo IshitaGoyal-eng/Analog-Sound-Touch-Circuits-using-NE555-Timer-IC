@@ -52,16 +52,6 @@ a latching mechanism that keeps the alarm ON until manually reset.
 
 ---
 
-## 📷 Circuit Diagrams
-(Add your circuit images here)
-
----
-
-## 🚀 Future Enhancements
-- Add wireless alert via Bluetooth/Wi-Fi module  
-- Integrate mobile notification system  
-- Expand to multi-zone touch detection  
-
 # PROJECT 2: Mini Analog Piano 🎹 using NE555 Timer IC
 
 ## Overview
